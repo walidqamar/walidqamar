@@ -3,7 +3,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/walidqamar/)  [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:walid.qamar@seecs.edu.pk?subject=Contact%20via%20GitHub%20Profile) [![Email](https://img.shields.io/badge/Email-Contact-gray?logo=email&logoColor=white)](mailto:w4walid@gmail.com?subject=Contact%20via%20GitHub)
+» [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/walidqamar/)  [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:walid.qamar@seecs.edu.pk?subject=Contact%20via%20GitHub%20Profile) [![Email](https://img.shields.io/badge/Email-Contact-gray?logo=email&logoColor=white)](mailto:w4walid@gmail.com?subject=Contact%20via%20GitHub)
 
 
 ### 💻 Tech Stack:
