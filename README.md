@@ -7,7 +7,9 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 
 
 <div align="center">
+  
 ### ⦿ 🌐 Socials:
+
 </div>
 
   
