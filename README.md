@@ -4,11 +4,11 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/walidqamar/)  [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:walid.qamar@seecs.edu.pk?subject=Contact%20via%20GitHub%20Profile) [![Email](https://img.shields.io/badge/Email-Contact-gray?logo=email&logoColor=white)](mailto:w4walid@gmail.com?subject=Contact%20via%20GitHub)
-</div>
+
 
 ### ⦿ 💻 Tech Stack:
 #### ►[CORE]
-<div align="center">
+
   
 ##### » Micro-Controllers and SoCs
 ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=plastic&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white)
