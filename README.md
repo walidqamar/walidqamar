@@ -22,7 +22,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 # ⦿ 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ![](https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 <div align="center">
