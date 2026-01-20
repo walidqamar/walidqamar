@@ -27,10 +27,10 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 
 <div align="center">
 <!-- GitHub Stats: slightly shorter -->
-<img src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="200"/>
 
 <!-- Most Used Languages: match size -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="200"/>
 
 <!-- Streak stats (optional) -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=false" width="200"/>
