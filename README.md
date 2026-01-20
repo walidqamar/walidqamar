@@ -1,8 +1,8 @@
-# 💫 About Me:
+## 💫 About Me:
 Software Embedded Engineer crafting efficient code for intelligent devices. Passionate about AI & its integration into embedded systems.<br>
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/walidqamar/) 
 
 ## 💻 Tech Stack:
