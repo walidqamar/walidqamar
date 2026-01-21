@@ -59,13 +59,13 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
   
 ![](https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=false)<br/>
 
-</div>
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="360"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-
+</div>
   
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
