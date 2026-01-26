@@ -60,7 +60,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 
 # ⦿ 📊 GitHub Stats:
 
-<div align="center">
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
 
 
@@ -90,10 +90,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 
 <table border="0">
   <tr>
-    <!-- LEFT COLUMN : two slabs stacked -->
-    <td>
-        ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-     </td>  
+    <!-- LEFT COLUMN : two slabs stacked --> 
       <img
         src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false"
         width="400" />
