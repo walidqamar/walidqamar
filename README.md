@@ -59,18 +59,21 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
   
 ![](https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=false)<br/>
 
-<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=500" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=500" width="300"/>
 
 </div>
   
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="450"/> -->
 
-![](https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+     width="300" />
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
 <div align="center">
   
