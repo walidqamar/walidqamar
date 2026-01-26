@@ -63,6 +63,14 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 <div align="center">
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=500" width="300"/>
+
+</div>
+
+
 <div align="center">
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark"
@@ -75,11 +83,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=500" width="300"/>
-
-</div>
   
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="450"/> -->
 
