@@ -91,6 +91,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 <div align="center">
   
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  
 </div>
 
 
