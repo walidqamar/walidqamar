@@ -60,7 +60,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 
 # ⦿ 📊 GitHub Stats:
 
-<div align="right">
+<div align="left">
     
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
