@@ -95,11 +95,11 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 
 <img align="left"
      src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=true"
-     width="500" />
+     width="400" />
   <br/><br/>   
 <img align="left"
      src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-     width="500" />
+     width="400" />
      
 </div>
 
