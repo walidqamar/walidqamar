@@ -118,9 +118,9 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 ## ⦿ 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=walidqamar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?walidqamar=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+https://github-profile-trophy.vercel.app/?walidqamar=ryo-ma&row=2&column=3
 
 ---
 [![](https://visitcount.itsvg.in/api?id=walidqamar&icon=1&color=0)](https://visitcount.itsvg.in)
