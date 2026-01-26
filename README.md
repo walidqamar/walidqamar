@@ -107,7 +107,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 <img align="right"
      alt="Coding"
      src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-     width="600"
+     width="400"
      height="480" />
 
 
