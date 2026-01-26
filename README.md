@@ -119,7 +119,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 
 ![](https://github-profile-trophy.vercel.app/?username=walidqamar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=walidqamar&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=walidqamar&theme=onedark&row=2&column=3)](https://github.com/walidqamar/github-profile-trophy)
 
 
 
