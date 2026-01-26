@@ -56,7 +56,16 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 # ⦿ 📊 GitHub Stats:
 
 <div align="center">
-  
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark"
+         width="300" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark"
+         width="300" />
+</div>
+
+
 ![](https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=false)<br/>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -79,6 +88,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
   
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 
 ## ⦿ 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=walidqamar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
