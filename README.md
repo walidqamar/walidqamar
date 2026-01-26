@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=walidqamar" />
+
 <div align="center">
 
 ### ⦿ 💫 About Me:
@@ -59,14 +61,13 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark"
-         width="300" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark"
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark"
          width="300" />
 </div>
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=true)<br/>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
