@@ -100,8 +100,6 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
         src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=true"
         width="300" />
     </td>
-
-    
     <td>
       <img
       src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
