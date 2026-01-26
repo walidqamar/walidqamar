@@ -64,11 +64,11 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=400" width="360"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=400" width="400"/>
 
 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="450"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="450"/> -->
 
 ![](https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
