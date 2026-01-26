@@ -94,12 +94,13 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 <div align="left">
 
 <img align="left"
-     src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-     width="300" />
-
-<img align="left"
      src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=true"
      width="300" />
+     
+<img align="left"
+     src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+     width="300" />
+     
 </div>
 
 <!-- RIGHT COLUMN : single GIF equal to two slabs -->
