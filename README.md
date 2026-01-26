@@ -110,37 +110,6 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 
 
 
-
-
-
-
-<!-- LEFT COLUMN : two slabs -->
-<div align="left">
-
-<img align="left"
-     src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=true"
-     width="500" />
-  <br/><br/>   
-<img align="left"
-     src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-     width="500" />
-     
-</div>
-
-<!-- RIGHT COLUMN : single GIF equal to two slabs -->
-<img align="right"
-     alt="Coding"
-     src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-     width="400"
-     height="480" />
-
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="450"/> -->
-
-
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-
 <div align="center">
   
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
