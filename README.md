@@ -108,7 +108,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
      alt="Coding"
      src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
      width="600"
-     height="420" />
+     height="480" />
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="450"/> -->
