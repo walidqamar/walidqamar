@@ -88,7 +88,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
      width="300" /> -->
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0>
   <tr>
     <!-- LEFT COLUMN : two slabs stacked -->
     <td>
