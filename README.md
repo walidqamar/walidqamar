@@ -90,12 +90,13 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 <table>
   <tr>
     <!-- LEFT COLUMN : two slabs stacked --> 
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false"
+    <td>
+           <img
+        src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=true"
         width="400" />
       <br/><br/>
-      <img
-        src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=true"
+        <img
+        src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false"
         width="400" />
     </td>
     <td>
