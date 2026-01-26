@@ -91,7 +91,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 <table border="0">
   <tr>
     <!-- LEFT COLUMN : two slabs stacked -->
-    <td style="border:none;>
+    <td>
       <img
         src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false"
         width="400" />
@@ -100,7 +100,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
         src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=true"
         width="400" />
     </td>
-    <td style="border:none;>
+    <td>
       <img
       src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
         width="350" />
