@@ -76,8 +76,8 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
   <img src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark"
          width="300" />
 </div> -->
-
-<div align="left">
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- <div align="left">
     
 ![](https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=true)<br/>.
 
@@ -86,7 +86,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-     width="300" />
+     width="300" /> -->
 
 
 
