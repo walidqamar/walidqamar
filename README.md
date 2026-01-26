@@ -88,6 +88,32 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
      width="300" /> -->
 
+<table>
+  <tr>
+    <!-- LEFT COLUMN : two slabs stacked -->
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false"
+        width="300" />
+      <br/><br/>
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=true"
+        width="300" />
+    </td>
+
+    
+    <td>
+      <img
+        src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+        width="300" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 
 <!-- LEFT COLUMN : two slabs -->
