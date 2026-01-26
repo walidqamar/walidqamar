@@ -103,7 +103,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
     <td>
       <img
       src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-        width="500" />
+        width="350" />
     </td>
   </tr>
 </table>
