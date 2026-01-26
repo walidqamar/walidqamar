@@ -66,7 +66,7 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=800" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidqamar&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=600" width="500"/>
 
 </div>
 
@@ -97,12 +97,9 @@ Software Embedded Engineer crafting efficient code for intelligent devices. Pass
      src="https://github-readme-stats.vercel.app/api?username=walidqamar&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
      width="300" />
 
-<br/><br/>
-
 <img align="left"
      src="https://nirzak-streak-stats.vercel.app/?user=walidqamar&theme=dark&hide_border=true"
      width="300" />
-
 </div>
 
 <!-- RIGHT COLUMN : single GIF equal to two slabs -->
